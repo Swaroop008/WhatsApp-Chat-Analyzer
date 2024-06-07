@@ -62,7 +62,7 @@ git push -u origin <your_branch_name>
 
 ## Run on Local System
 
-[![GitHub open issues](https://img.shields.io/github/issues/Swaroop008/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/issues) [![GitHub contributors](https://img.shields.io/github/contributors/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/graphs/contributors) [![Swaroop](https://img.shields.io/badge/Author-@pcsingh-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/Swaroop008/)
+[![GitHub open issues](https://img.shields.io/github/issues/Swaroop008/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/issues) [![GitHub contributors](https://img.shields.io/github/contributors/Swaroop008/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/graphs/contributors) [![Swaroop](https://img.shields.io/badge/Author-@Swaroop008-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/Swaroop008/)
 
 - Install packages given in `requirements.txt` (packages need **Python 3.11.0**).
 
