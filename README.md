@@ -9,7 +9,7 @@ And many other insights you can get from this Analyzer. Anyone obviously, who ha
 
 ## Getting Started
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://whatsapp-chat-analyzer.herokuapp.com/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/pcsingh/WhatsApp-Chat-Analyzer?color=bluevoilet&logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/commits/) [![GitHub repo size](https://img.shields.io/github/repo-size/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://roopwca-96fun.streamlit.app/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://roopwca-96fun.streamlit.app/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Swaroop008/WhatsApp-Chat-Analyzer?color=bluevoilet&logo=github)](https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/commits/) [![GitHub repo size](https://img.shields.io/github/repo-size/Swaroop008/WhatsApp-Chat-Analyzer?logo=github)](https://roopwca-96fun.streamlit.app/)
 
 **1.** Fork [this](https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/) repository.
 Click on the <a href="https://github.com/Swaroop008/WhatsApp-Chat-Analyzer/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
